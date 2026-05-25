@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/aristorechina">
-    <img src="https://i1.hdslb.com/bfs/face/41eb0d9e643508dc184baf06a3dd8a24848cceb4.jpg" width="120" style="border-radius: 50%;" alt="Aristore Avatar"/>
+    <img src="https://avatars.githubusercontent.com/u/81846254" width="120" style="border-radius: 50%;" alt="Aristore Avatar"/>
   </a>
 
   <h1 align="center">Hi there, I'm <a href="https://www.aristore.top/" target="_blank">Aristore</a> 👋</h1>
